@@ -1,0 +1,30 @@
+﻿@page "/cadastroprodutos"
+
+@using CSharpStart.MinhasClasses
+
+<div class="card">
+    <div class="card-header text-center">
+        <h1>Cadastro de produtos</h1>
+    </div>
+    <div class="card-body p-1">
+        <div class="form-group">
+            <label>Produto</label>
+            <input @bind="NomeProduto" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label>Preço</label>
+            <input @bind="PrecoProduto" class="form-control"/>
+        </div>
+    </div>
+    <div class="card-footertext-center">
+        <button @onclick="IncluirProduto" class="btn btn-primary">
+            Incluir
+        </button>
+    </div>
+</div>
+
+<h3>CadastroProdutos</h3>
+
+@code {
+
+}

@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = CSharp-Start
+build_property.RootNamespace = CSharp-Start
+build_property.ProjectDir = C:\Users\felipe-moura\source\repos\CSharp-Start-Book\CSharp-Start\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\felipe-moura\source\repos\CSharp-Start-Book\CSharp-Start
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/CadastroAlunos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9BbHVub3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/CadastroProdutos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9Qcm9kdXRvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Conversoes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVyc29lcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Criptografador.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JpcHRvZ3JhZmFkb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/DadosSimples.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFkb3NTaW1wbGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/DeuRuim.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV1UnVpbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/FrasesAleatorias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJhc2VzQWxlYXRvcmlhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Imc.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1jLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Lambda.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFtYmRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Metodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWV0b2RvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/MiniCalculadora.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWluaUNhbGN1bGFkb3JhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Notas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90YXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Predio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlZGlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/TestesString.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdGVzU3RyaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Pages/Variaveis.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFyaWF2ZWlzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-g6rrnfczjh
+
+[C:/Users/felipe-moura/source/repos/CSharp-Start-Book/CSharp-Start/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hzvgq32b44
