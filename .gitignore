@@ -1,0 +1,47 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.props
+*.targets
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# ReSharper
+_ReSharper*/
+*.ReSharper*
+*.DotSettings.user
+
+# Rider
+.idea*/
+*.csproj.DotSettings.user
+
+# Others
+*.sqlite
+*.sdf
+*.bak
+*.cache
+*.log
+*.bak
+*.psess
+*.vsp
